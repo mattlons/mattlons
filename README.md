@@ -3,7 +3,7 @@
 ### Aspiring Tech Professional | Data Enthusiast
 
 ### 🚀 About Me
-I'm a Computer Science student at Dorset College Dublin, and I’ve always been passionate about solving problems and finding ways to make things run smoother—whether it's through data, tech tools, or coding.
+I'm a Computer Science student at Dorset College Dublin. passionate about solving problems and finding ways to make things run smoother, whether through data, tech tools, or coding.
 
 Over the years, I learned to handle challenges under pressure and deliver results. Now, I’m diving deeper into Python, SQL, and data analysis to grow as a tech professional.
 
